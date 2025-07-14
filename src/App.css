@@ -1,2 +1,7 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+:root{
+    --app-red : #FF5C5C;
+    --app-blue : #240940;
+}
